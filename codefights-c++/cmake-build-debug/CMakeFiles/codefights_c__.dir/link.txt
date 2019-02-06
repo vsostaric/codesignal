@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/codefights_c__.dir/main.cpp.o  -o codefights_c__.exe -Wl,--out-implib,libcodefights_c__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
