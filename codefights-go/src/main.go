@@ -1,6 +1,7 @@
 package main
 
 import (
+	"./arrayMaxConsecutiveSum"
 	"./differentSymbolsNaive"
 	"./firstDigit"
 )
@@ -8,4 +9,5 @@ import (
 func main() {
 	firstDigit.Test()
 	differentSymbolsNaive.Test()
+	arrayMaxConsecutiveSum.Test()
 }

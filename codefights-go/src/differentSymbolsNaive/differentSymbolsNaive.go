@@ -13,6 +13,7 @@ func Solution(s string) int {
 }
 
 func Test() {
+	log.Printf("Testing differentSymbolsNaive")
 	log.Printf("%d %s", Solution("cabca"), " --> Should be 3")
 	log.Printf("%d %s", Solution("aba"), " --> Should be 2")
 	log.Printf("%d %s", Solution("ccccccccccc"), " --> Should be 1")

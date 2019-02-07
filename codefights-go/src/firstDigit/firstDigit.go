@@ -20,6 +20,7 @@ func Solution(inputString string) string {
 }
 
 func Test() {
+	log.Printf("Testing firstDigit")
 	log.Printf(Solution("var_1__Int") + " --> Should be 1")
 	log.Printf(Solution("q2q-q") + " --> Should be 2")
 	log.Printf(Solution("0ss") + " --> Should be 0")
