@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Vladimir/gitlabprojects/codefights/codefights-c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Vladimir/gitlabprojects/codefights/codefights-c++/cmake-build-debug/CMakeFiles/codefights_c__.dir
-/cygdrive/c/Users/Vladimir/gitlabprojects/codefights/codefights-c++/cmake-build-debug/CMakeFiles/edit_cache.dir
