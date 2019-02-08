@@ -5,6 +5,6 @@ fun chessBoardCellColor(cell1: String, cell2: String): Boolean {
 }
 
 fun main(args: Array<String>) {
-    System.out.println(chessBoardCellColor("A1", "C3").toString() + " ---> Should be true")
-    System.out.println(chessBoardCellColor("A1", "H3").toString() + " ---> Should be false")
+    println(chessBoardCellColor("A1", "C3").toString() + " ---> Should be true")
+    println(chessBoardCellColor("A1", "H3").toString() + " ---> Should be false")
 }

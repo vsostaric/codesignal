@@ -12,6 +12,6 @@ fun alphabeticShift(inputString: String): String {
 
 
 fun main(args: Array<String>) {
-    System.out.println(alphabeticShift("crazy") + " ---> Should be dsbaz")
-    System.out.println(alphabeticShift("z") + " ---> Should be a")
+    println(alphabeticShift("crazy") + " ---> Should be dsbaz")
+    println(alphabeticShift("z") + " ---> Should be a")
 }
