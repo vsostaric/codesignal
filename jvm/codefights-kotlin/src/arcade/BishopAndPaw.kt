@@ -14,6 +14,5 @@ fun main(args: Array<String>) {
     println(bishopAndPawn("h1", "h3").toString() + " -> Should be false")
     println(bishopAndPawn("a5", "c3").toString() + " -> Should be true")
     println(bishopAndPawn("g1", "f3").toString() + " -> Should be false")
-
     println(bishopAndPawn("a1", "h8").toString() + " -> Should be true")
 }
