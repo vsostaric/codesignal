@@ -5,7 +5,7 @@ fun isBeautifulString(inputString: String): Boolean {
             .map { el -> el.toChar() }
             .map { el -> inputString.filter { char -> char == el }.count() }
 
-    for (i in 1..characterCounts.size-1) {
+    for (i in 1 until characterCounts.size) {
         if (characterCounts[i] > characterCounts[i - 1]) {
             return false
         }
